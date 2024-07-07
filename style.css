@@ -239,8 +239,6 @@ nav{
     display: flex;
     justify-content: right;
     align-items: center;
-    margin-bottom: 50px;
-    margin-right: 50px;
     min-height: 80vh;
     width: 50%;
 }
